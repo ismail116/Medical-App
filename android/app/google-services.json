@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "322833193189",
+    "project_id": "gradprjct2022-bb1c0",
+    "storage_bucket": "gradprjct2022-bb1c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322833193189:android:ba965aaee3cbd2b455dc0c",
+        "android_client_info": {
+          "package_name": "io.sleuth.sleuth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322833193189-e68jrhr4ic8obdfil2keatuu05amvn1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFRacOZaAWzz-amBkrHA36bQPpGjOjjq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322833193189-e68jrhr4ic8obdfil2keatuu05amvn1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
