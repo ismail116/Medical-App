@@ -1,16 +1,15 @@
-# sleuth
+# Graduation Project | VitalSigns Monitor
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Key Features:
 
-A few resources to get you started if this is your first Flutter project:
+1- Real-time monitoring of vital signs like oxygen rate and blood pressure.
+2- Flutter app interface with cards displaying last measurements and dynamic graphs showing daily trends.
+3- Video-based measurement using a finger camera linked with machine learning models.
+4- Machine learning compares measurements with standards, displaying results in cards and updating the graph.
+5- Profile page stores user's medical history, blood type, personal info, and chronic diseases.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Objective:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Empowering users to proactively manage their health by providing accurate, real-time monitoring and analysis of vital signs through an intuitive Flutter-based mobile application.
